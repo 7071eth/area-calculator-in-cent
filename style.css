@@ -1,5 +1,4 @@
 .inputnum h6{
-    margin-top: 5px;
     margin-left: 15px;
     width: fit-content;
 }
@@ -34,6 +33,19 @@
     font-size: larger;
     font-weight: 700;
 }
-.mainc{
-    margin-top: 20px;
+.headb a{
+    margin-top: 15px;
+    width: fit-content
+}
+.headb button{
+    border: 0px;
+    border-radius: 5px;
+    width: 90px;
+    height: 40px;
+    margin-left: 20px;
+    font-weight: 700;
+}
+.headb{
+    padding-left: 40px;
+
 }

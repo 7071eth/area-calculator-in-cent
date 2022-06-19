@@ -3,7 +3,7 @@ function calcu(){
 
     var total=Area1()+Area2()
     total=total/40.46856419;
-    document.getElementById("screen").value=total.toFixed(3);
+    document.getElementById("screen").value=total.toFixed(3)+" cents";
 
     function Area1() {
         let side1 = parseInt(document
