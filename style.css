@@ -42,8 +42,8 @@
 .headb button{
     border: 0px;
     border-radius: 5px;
-    width: 90px;
-    height: 40px;
+    width: auto;
+    height: auto;
     margin-left: 20px;
     font-weight: 700;
 }
@@ -51,4 +51,7 @@
     
     padding-left: 12%;
 
+}
+.headb p{
+   
 }

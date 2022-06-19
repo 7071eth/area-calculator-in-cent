@@ -24,13 +24,13 @@ function calcu(){
         
         }
         function Area2() {
-            let side1 = parseInt(document
+            let side1 = parseFloat(document
                 .getElementById("c1").value);
     
-            let side2 = parseInt(document
+            let side2 = parseFloat(document
                 .getElementById("d1").value);
     
-            let side3 = parseInt(document
+            let side3 = parseFloat(document
                 .getElementById("e1").value);
     
             let s = (side1 + side2 + side3) / 2;
@@ -50,13 +50,13 @@ function calcutri(){
     document.getElementById("screen").value=total.toFixed(3)+" cents";
 
     function Area1() {
-        let side1 = parseInt(document
+        let side1 = parseFloat(document
             .getElementById("a1").value);
 
-        let side2 = parseInt(document
+        let side2 = parseFloat(document
             .getElementById("b1").value);
 
-        let side3 = parseInt(document
+        let side3 = parseFloat(document
             .getElementById("c1").value);
 
         let s = (side1 + side2 + side3) / 2;
