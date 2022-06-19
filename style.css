@@ -1,0 +1,36 @@
+.inputnum h6{
+    margin-top: 5px;
+    margin-left: 15px;
+    width: fit-content;
+}
+.inputnum input{
+    width: 70%;
+    margin-left: 15px;
+    border-radius: 5px;
+}
+
+.inputnum{
+    padding-bottom: 15px;
+}
+
+.display1 input{
+    width: 70%;
+    height: 45px;
+    margin-left: 17%;
+    margin-bottom: 15px;
+}
+.display1 input{
+    background-color: rgb(221, 255, 245);
+    border-radius: 5px;
+}
+.cal{
+    width: 150px;
+    height: 50px;
+    
+}
+.cal button{
+    border-radius: 5px;
+    background-color: rgb(237, 157, 157);
+    font-size: larger;
+    font-weight: 700;
+}
