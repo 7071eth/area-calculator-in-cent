@@ -37,13 +37,14 @@
 }
 .headb a{
     margin-top: 15px;
-    width: fit-content
+    width: fit-content;
+    height: fit-content;
 }
 .headb button{
     border: 0px;
     border-radius: 5px;
     width: auto;
-    height: auto;
+    height: fit-content;
     margin-left: 20px;
     font-weight: 700;
 }
@@ -53,5 +54,5 @@
 
 }
 .headb p{
-   
+   margin: 9px;
 }
